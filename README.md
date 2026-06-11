@@ -65,4 +65,4 @@ AITechDigest is archived. The curation lens — what matters for practitioners b
 
 ---
 
-Built by [Joy Dong](https://joydong.org)
+Built by [Joy Dong](https://www.joydong.org)
